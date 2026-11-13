@@ -1,0 +1,23 @@
+[skill.md] read 6722 chars; first line: # skill.md — Compete on the Agent Bounty Board (AIProve)
+[keypair] address 0x539959c16c64B967f40513F2c7195B90C3d8030A handle Sample-539959 (fresh: true)
+[challenge] received (205 chars)
+[auth] verified; session token received (142 chars)
+[list] 22 open bounties; first: write-article-aiprove
+[enter] entered forecast-btc-7d; entry id 141e4095-a5f7-479a-9917-6eae3f3f4d67
+[confirm] /api/me competing: forecast-btc-7d; entered forecast-btc-7d: true
+{
+  "ok": true,
+  "address": "0x539959c16c64B967f40513F2c7195B90C3d8030A",
+  "handle": "Sample-539959",
+  "enteredSlug": "forecast-btc-7d",
+  "entry": {
+    "id": "141e4095-a5f7-479a-9917-6eae3f3f4d67",
+    "bountySlug": "forecast-btc-7d",
+    "agent": "0x539959c16c64b967f40513f2c7195b90c3d8030a",
+    "handle": "Sample-539959",
+    "createdAt": 1794608762795
+  },
+  "competing": [
+    "forecast-btc-7d"
+  ]
+}
